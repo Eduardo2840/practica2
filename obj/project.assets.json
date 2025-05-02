@@ -8240,11 +8240,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edutr\\OneDrive\\Escritorio\\PC2\\practica2\\practica2.csproj",
+      "projectUniqueName": "C:\\Users\\edutr\\OneDrive\\Escritorio\\pract2\\practica2\\practica2.csproj",
       "projectName": "practica2",
-      "projectPath": "C:\\Users\\edutr\\OneDrive\\Escritorio\\PC2\\practica2\\practica2.csproj",
+      "projectPath": "C:\\Users\\edutr\\OneDrive\\Escritorio\\pract2\\practica2\\practica2.csproj",
       "packagesPath": "C:\\Users\\edutr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edutr\\OneDrive\\Escritorio\\PC2\\practica2\\obj\\",
+      "outputPath": "C:\\Users\\edutr\\OneDrive\\Escritorio\\pract2\\practica2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\edutr\\AppData\\Roaming\\NuGet\\NuGet.Config"

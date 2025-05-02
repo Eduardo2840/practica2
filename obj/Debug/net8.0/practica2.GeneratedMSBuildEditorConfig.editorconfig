@@ -17,59 +17,59 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = practica2
 build_property.RootNamespace = practica2
-build_property.ProjectDir = C:\Users\edutr\OneDrive\Escritorio\PC2\practica2\
+build_property.ProjectDir = C:\Users\edutr\OneDrive\Escritorio\pract2\practica2\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\edutr\OneDrive\Escritorio\PC2\practica2
+build_property.MSBuildProjectDirectory = C:\Users\edutr\OneDrive\Escritorio\pract2\practica2
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/edutr/OneDrive/Escritorio/PC2/practica2/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/edutr/OneDrive/Escritorio/pract2/practica2/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/edutr/OneDrive/Escritorio/PC2/practica2/Views/Home/Index.cshtml]
+[C:/Users/edutr/OneDrive/Escritorio/pract2/practica2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/edutr/OneDrive/Escritorio/PC2/practica2/Views/Home/Privacy.cshtml]
+[C:/Users/edutr/OneDrive/Escritorio/pract2/practica2/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/edutr/OneDrive/Escritorio/PC2/practica2/Views/Pet/Asignar.cshtml]
+[C:/Users/edutr/OneDrive/Escritorio/pract2/practica2/Views/Pet/Asignar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0XEFzaWduYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/edutr/OneDrive/Escritorio/PC2/practica2/Views/Pet/Crear.cshtml]
+[C:/Users/edutr/OneDrive/Escritorio/pract2/practica2/Views/Pet/Crear.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0XENyZWFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/edutr/OneDrive/Escritorio/PC2/practica2/Views/Pet/ListaAdopciones.cshtml]
+[C:/Users/edutr/OneDrive/Escritorio/pract2/practica2/Views/Pet/ListaAdopciones.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0XExpc3RhQWRvcGNpb25lcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/edutr/OneDrive/Escritorio/PC2/practica2/Views/Shared/Error.cshtml]
+[C:/Users/edutr/OneDrive/Escritorio/pract2/practica2/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/edutr/OneDrive/Escritorio/PC2/practica2/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/edutr/OneDrive/Escritorio/pract2/practica2/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/edutr/OneDrive/Escritorio/PC2/practica2/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/edutr/OneDrive/Escritorio/pract2/practica2/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/edutr/OneDrive/Escritorio/PC2/practica2/Views/_ViewImports.cshtml]
+[C:/Users/edutr/OneDrive/Escritorio/pract2/practica2/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/edutr/OneDrive/Escritorio/PC2/practica2/Views/_ViewStart.cshtml]
+[C:/Users/edutr/OneDrive/Escritorio/pract2/practica2/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/edutr/OneDrive/Escritorio/PC2/practica2/Views/Shared/_Layout.cshtml]
+[C:/Users/edutr/OneDrive/Escritorio/pract2/practica2/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5uuh1yp64x
